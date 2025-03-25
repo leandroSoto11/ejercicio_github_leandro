@@ -1,1 +1,3 @@
-# ejercicio_github_leandro
+# proyecto tarea 
+# leandro soto 
+# ....
