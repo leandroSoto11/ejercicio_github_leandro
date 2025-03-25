@@ -3,3 +3,7 @@
 - encerio te parece correcto? 
 
 ["dialogoNPC-SI"]
+
+
+["dialogoNPC-SI","dialogoNPC-NO"]
+
