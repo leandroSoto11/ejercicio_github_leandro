@@ -2,3 +2,4 @@
 - por que no podria 
 - encerio te parece correcto? 
 
+["dialogoNPC-SI"]
